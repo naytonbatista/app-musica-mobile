@@ -1,0 +1,15 @@
+.toolbar-background-md{
+    background: #443266
+}
+
+.toolbar-background-ios{
+    background: #443266
+}
+
+.toolbar-title-md, .bar-button-md, .bar-button-default, .bar-button-default-md{
+    color: #fff
+}
+
+.toolbar-title-ios{
+    color: #fff
+}
